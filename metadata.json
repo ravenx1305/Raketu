@@ -1,0 +1,6 @@
+{
+  "name": "Привіт Світ - Інтерактивний простір",
+  "description": "Персональний веб-додаток та інтерактивний простір для створення будь-яких ідей, інструментів та проєктів українською мовою.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
